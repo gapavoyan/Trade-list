@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  height: 99.5vh;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(23,95,133);
+background: radial-gradient(circle, rgba(23,95,133,1) 7%, rgba(21,114,118,1) 52%, rgba(18,57,103,1) 100%);
+
+}
+table,th,td{
+  border: 1px solid rgb(0, 255, 204);
+  color: rgb(98, 0, 255);
+  background-color: rgb(141, 198, 141);
+  border-collapse: collapse;
+}
